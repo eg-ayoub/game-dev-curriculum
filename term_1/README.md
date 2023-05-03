@@ -14,6 +14,8 @@
 
 ## Courses
 
+### Game design communication
+
 ### Board Game Theory
 
 [quick link](./board_game_theory/README.md)
