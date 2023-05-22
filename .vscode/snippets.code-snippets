@@ -38,5 +38,10 @@
 		"scope": "markdown",
 		"prefix": "pic",
 		"body": "![$1]($0)"
+	},
+	"Underline": {
+		"scope": "markdown",
+		"prefix": "ul",
+		"body": "<u>$0</u>"
 	}
 }

@@ -6,6 +6,11 @@ Some additional resources are provided [here](./additional_links.md).
 This repo will be updated with every "Term" and every class I research.
 I will do my best to provide examples and notes for each subject.
 
+# About the notes
+
+I don't suggest using my notes, they only repeat the materials for each subject.
+I take them because I fond it easier to learn by writing/typing.
+
 # Term 1
 
 Learn the basics of a variety of game dev adjacent subjects. Materials included are public and linked.
