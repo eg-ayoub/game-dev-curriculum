@@ -72,8 +72,8 @@
 
 #### Practice
 
- - 25 pixel art assets in 8x8 and 16x16
- - design 3 pixel art palettes, with usage examples
+ - RNG words as pixel art assets
+ - design 3 pixel art palettes, with usage examples, demonstrate color ramps
  - sword in stone 3D model [quicker link](https://www.youtube.com/playlist?list=PL8eKBkZzqDiVvueu0ikzF1jVQWrgxma0U)
  - 10 digital art assets
 
